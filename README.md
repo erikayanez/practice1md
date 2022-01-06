@@ -15,6 +15,6 @@
 - Element.
 
 A title in Italic:
-_This is a title in Italic_
+_This is a title in Italic_.
 
 
