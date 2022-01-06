@@ -17,4 +17,4 @@
 A title in Italic:
 _This is a title in Italic_.
 
-~~### This is an example~~
+### ~~This is an example~~
